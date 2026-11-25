@@ -14,6 +14,7 @@ Pros:
 - Powerful Search and Replace: It supports regular expressions (regex) to find and fix text across huge files quickly.
 - Session Memory: It remembers your open tabs and unsaved changes even if you close the program or restart your computer.
 - Extensible: You can add plugins for extra tools like code formatters and custom themes. 
+
 Cons: 
 - Windows Only: It runs natively only on Windows, which is frustrating if you use a Mac or Linux.
 - Outdated Interface: The visual design looks old and less polished compared to modern editors.
@@ -22,22 +23,25 @@ Cons:
 - Overwhelming for Beginners: The vast number of menus and technical settings can confuse casual users who just want a basic notepad.
 
 Poly Pizza https://poly.pizza/: 
+
 Poly Pizza is a free online library and search engine for low-poly 3D models, hosting more than 10,700 hand-picked models for games, AR/VR experiences, and web projects. The platform lets visitors browse, preview, and download models directly with no account or login required.
 
 Pros:
-Completely free with no account or download limits
-Large, hand-curated catalogue of game-ready low-poly models
-Clear per-model license badges (CC0 vs CC-BY)
-Direct .glb downloads that work in Unity, Unreal, Godot, and browsers
-Actively maintained by its creator since 2021
+- Completely free with no account or download limits
+- Large, hand-curated catalogue of game-ready low-poly models
+- Clear per-model license badges (CC0 vs CC-BY)
+- Direct .glb downloads that work in Unity, Unreal, Godot, and browsers
+- Actively maintained by its creator since 2021
+
 Cons/Limitations: 
-License varies per model — CC-BY models require attribution, so you must check each one
-Quality and style are inconsistent since models come from many different artists
-Low-poly only; no high-poly or photorealistic content
-No bulk download or full-catalogue export option
-As a solo-run indie project, support and moderation are limited 
+- License varies per model — CC-BY models require attribution, so you must check each one
+- Quality and style are inconsistent since models come from many different artists
+- Low-poly only; no high-poly or photorealistic content
+- No bulk download or full-catalogue export option
+- As a solo-run indie project, support and moderation are limited 
 
 Blender https://www.blender.org/: 
+
 	Blender is a 3D computer graphics software. It’s open-source, meaning it’s publicly accessible. For this reason, updates are handled by the community that uses Blender, rather than a third party, a specific team, or Blender itself. This often results in bug fixes, new features, and usability improvements happening quicker than with traditional software.
 
 Pros: 
@@ -45,6 +49,7 @@ It’s free and open-source software
 It’s more diverse than most 3D programs
 Blender software uses procedural workflow
 The development cycle is wild. Due to its open-source nature, you'll often find a new version of Blender every few months. You can even download the source code for your Blender software and create your own version, if you know how to write code with Python.
+
 Cons: 
 It isn’t industry standard. Blender software is great for learning the ropes and working on solo projects, whether they’re paid gigs or just for fun. However, if you take on a project and join someone’s team, it’s unlikely they’ll use Blender for 3D animation. This is because companies usually have paid-for animation programs that work alongside their other processes.
 It has a steep learning curve
